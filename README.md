@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/96681351?v=4"</p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/88833329?s=400&u=7ee2ee1cdc747607265f2c24ff57aaca65c18317&v=4"</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70&size=15&lines=Hello+Guys+!!)
 <br>
