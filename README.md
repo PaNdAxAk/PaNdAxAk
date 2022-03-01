@@ -17,7 +17,7 @@
      
 # Fake Visitors 🤣
 ![Githubstates](https://camo.githubusercontent.com/587dc3335d6a85a3f94f9a835712335c8d0b3bff538723210326e739ff5a2706/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f414b585641552f636f756e742e737667)
-[![Githubstates](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Axakma9)
+[![Githubstates](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/Axakma9)
 - 🔭 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣 🐍
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 🐍
 - 👯 𝙸’𝚖 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚑𝚎𝚕𝚙 𝙾𝚝𝚑𝚎𝚛𝚜 
